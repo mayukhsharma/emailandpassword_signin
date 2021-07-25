@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506141477763",
+    "project_id": "email-login-cdb1e",
+    "storage_bucket": "email-login-cdb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506141477763:android:429b1b079e72a4eb9104b6",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506141477763-khhlvgsguqgre8hni7jarg3o8k5vib3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKIIRwvPQKpmceIC8lU1QM_fqP0ihyks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506141477763-khhlvgsguqgre8hni7jarg3o8k5vib3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
